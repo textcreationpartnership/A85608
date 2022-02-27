@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gallant nevves for London. From His Majesties royall court at Holmby; wherein is set forth, three remarkable passages, to be presented to the citizens of London, viz. The [brace] 1. Conceerning (sic) the kingdome of Ireland. 2. Concerning General Fairfax. 3. Concerning the kingdome of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85608</idno>
+            <idno type="STC">Wing G172</idno>
+            <idno type="STC">Thomason E377_19</idno>
+            <idno type="STC">ESTC R201366</idno>
+            <idno type="EEBO-CITATION">99861889</idno>
+            <idno type="PROQUEST">99861889</idno>
+            <idno type="VID">159959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159959)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gallant nevves for London. From His Majesties royall court at Holmby; wherein is set forth, three remarkable passages, to be presented to the citizens of London, viz. The [brace] 1. Conceerning (sic) the kingdome of Ireland. 2. Concerning General Fairfax. 3. Concerning the kingdome of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed &amp; published, and to be presented, to the view of all His Majesties loyall subjects,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "feb: 22 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159959:1" rendition="simple:additions"/>
+            <p> GALLANT NEVVES FOR LONDON.</p>
+            <p>FROM His Majeſties Royall Court at HOLMBY;</p>
+            <p>Wherein is ſet forth, three remarkable Paſſages, to be preſented to the Citizens of London, VIZ.</p>
+            <list>
+               <item>The 1. <hi>Conceerning the Kingdome of</hi> Ireland.</item>
+               <item>The 2. <hi>Concerning General</hi> Fairfax.</item>
+               <item>The 3. <hi>Concerning the Kingdome of</hi> England.</item>
+            </list>
+            <figure>
+               <figDesc>two flautists</figDesc>
+            </figure>
+            <p>Printed &amp; publiſhed, and to be preſented, to the view of all His Majeſties loyall Subjects, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:159959:2"/>
+            <pb facs="tcp:159959:2"/>
+            <head>JOYFUL NEWES FROM HOLMBY.</head>
+            <p>THe Clouds of England are now diſſol<g ref="char:EOLhyphen"/>ved, and her bright Star begins to ap<g ref="char:EOLhyphen"/>pear in its full luſtre, having ſteered its Coaſt towards the Southern Climate; ſo that this poor diſconſolated Kingdom, doth now begin to diſcern a glimpſe of that glorious light which formerly ſhe enioyed, who for
+<pb facs="tcp:159959:3"/> theſe four or five yeares, laſt paſt, hath been over ſhadowed and eclipſed, by many poy<g ref="char:EOLhyphen"/>ſoning Fogs, and unſavory Vapours: And had it not pleaſed God (out of his abundant of mercies) to enlighten this poor Kingdom with many pure and bright Stars, (by cal<g ref="char:EOLhyphen"/>ling a bleſſed Parliament) this languiſhing Nation had been in a moſt ſad condition: But by the great wiſdome and care of theſe renowned Patriots, the great Pillars of ob<g ref="char:EOLhyphen"/>ſcurity are quite broken and caſt dow, and a moſt pure and cleer Lanthorn ſet up with in this Kingdome, that ſo the light of the Goſpel may ſhine forth in abundance tho<g ref="char:EOLhyphen"/>row out all the dark corners thereof.</p>
+            <p>But for the more full and firme eſtabli<g ref="char:EOLhyphen"/>ſhing of this Goſpel-light, the Eſtates of both Kingdomes doth humbly beſeech his Maje<g ref="char:EOLhyphen"/>ſty to give his Royal aſſent, for the enacting of the Government of the Church of Eng<g ref="char:EOLhyphen"/>land, now ſet up &amp; eſtabliſhed by the great Councel thereof. But as yet his Maieſty can<g ref="char:EOLhyphen"/>not approve of the Directory; and ſaith, he cannot joyn in ſaying <hi>Amen.</hi> to ſuch praying as is againſt his Conſcience: his Maieſty wil not as yet condeſcend to heare the Engliſh
+<pb facs="tcp:159959:3"/> Divines preach, but ſaith, he doth (in part) approve of their prayer, if they would but inſert the word (Queen.)</p>
+            <p>There were great tryumph at Northam<g ref="char:EOLhyphen"/>pton upon Tueſday laſt, when the tydings were, brought, that his Maieſty were neere Holmby, the Bells rang, and the great Guns went of, inſomuch, that a gallant eccho made its appeal at Holmby, and the ſound thereof did much reioyce his Maieſties heart; who little thought, that the joy of his ſubiects would have beene ſo great at the arrivall of his Royal perſon.</p>
+            <p>Multitudes of people reſorted to wel<g ref="char:EOLhyphen"/>come his Maieſty, the Road from Harborow to Holmby being adorned with thouſands, and thouſands of ſpectators, crying with a loud voyce (God bleſſe your Maieſty) the King ſmiling upon them, paſſed along cheer<g ref="char:EOLhyphen"/>fully, ſaying, he hoped this Journey would prove a proſperous voyage, both to him and his Poſterity.</p>
+            <p>Many hundreds of the Gentry of North<g ref="char:EOLhyphen"/>hamptonſhire, met his Maieſty two miles on this ſide Harborow, and accompanied his Maieſty to Holmby.</p>
+            <pb facs="tcp:159959:4"/>
+            <p> The bells rang in every town that his Mai. paſſed through, which annexed a double ioy to his Royal heart, cauſing many a ſmile from his Princely countenance.</p>
+            <p>At his arrivall at Holmby, there was a gallant guard appointed for his Maieſty to paſſe by, who entred in at the great Court Gate, being accompanied by the Commiſſi<g ref="char:EOLhyphen"/>oners of both Kingdoms, who deport them<g ref="char:EOLhyphen"/>ſelves with much gallantry, performing the truſt repoſed in them faithfully, and their o<g ref="char:EOLhyphen"/>bedience to their Liege-Soveraign moſt loy<g ref="char:EOLhyphen"/>ally. He entred the houſe in great tryumph, and in a moſt ſumptuous maner, taking ſome delight in conferring with the Commiſſio<g ref="char:EOLhyphen"/>ners about ſom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> points concerning the Di<g ref="char:EOLhyphen"/>rectory; they leave no meanes unaſſayed, that may any wayes prove effectual, for the per<g ref="char:EOLhyphen"/>ſwading and gayning of his Maieſties Roy<g ref="char:EOLhyphen"/>all aſſent, to ſigne the Propoſitions, and take the Covenant.; which we hope, will, ere long prove effectual, deſiring to hear that tryum<g ref="char:EOLhyphen"/>phant ſound, and comfortable eccho, of the uniting both of Prince and Subject, that ſo peace and truth may flouriſh within his Maieſties Dominions.</p>
+            <pb facs="tcp:159959:4"/>
+            <p> Proviſions is very deare at all the adiacent townes neer the Court, eſpecially at North<g ref="char:EOLhyphen"/>hampton, where Butter is ſold for ſix pence a pound, a loafe for two pence, that wants a<g ref="char:EOLhyphen"/>bove three Ounces of the ordinary weight, Corn at an extraordinary rate.</p>
+            <p>One thing <hi>I</hi> ſhall here inſert, which is ve<g ref="char:EOLhyphen"/>ry requiſite for publike view, concerning ſe<g ref="char:EOLhyphen"/>verall remarkable paſſages and Propoſitions which paſſed between the King and his Ex<g ref="char:EOLhyphen"/>cellency Sir Thomas Fairfax, which <hi>I</hi> will intimate as followeth.</p>
+         </div>
+         <div type="account">
+            <head>Propoſitions between the Kings moſt excellent Maieſty, and his Excellency ſir Thomas Fairfax.</head>
+            <p>UPon his Majeſties advance to Holmby, his Excellency Sir Thomas Fairfax had ſome conference with him, and after ſome diſpute together, his Majeſty enquired much
+<pb facs="tcp:159959:5"/> after the Lord Liſle, and concerning the bu<g ref="char:EOLhyphen"/>ſineſſe of Ireland, and the Forces deſired for that Service, and other things in relation to preparations, and proſecutions of that War, His Maieſty alſo declared his will and plea<g ref="char:EOLhyphen"/>ſure to the Engliſh Commiſſioners, intima<g ref="char:EOLhyphen"/>ting his good affection towards his Excel<g ref="char:EOLhyphen"/>lency Sir Thomas Fairfax, ſaying, that he was a Souldier, and a Gentleman of honour, his fidelity and renowned actions, being ap<g ref="char:EOLhyphen"/>parent to the world, further inaimating, that he had proved faithfull to the truſt repoſed in him, and like a noble Generall, had per<g ref="char:EOLhyphen"/>formed all Articles, according to the condi<g ref="char:EOLhyphen"/>rions agreed upon, for the ſurrender of his Maieſties townes and caſtles to the Parlia<g ref="char:EOLhyphen"/>ment, and that he had kept his word faith<g ref="char:EOLhyphen"/>fully with him; for his performance here<g ref="char:EOLhyphen"/>in, the greateſt Monarchs will approve his fame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
